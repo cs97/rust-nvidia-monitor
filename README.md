@@ -1,5 +1,16 @@
 # rust-nvidia-monitor
 
+## Getting Started
+
+### Dependencies
+* nvidia-smi
+
+
+### Installing
+* rustc nvmon.rs
+* cp nvmon /bin/usr/
+
+### Usage
 
 ./nvmon
 ```
