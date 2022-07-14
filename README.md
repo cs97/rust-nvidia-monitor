@@ -1,7 +1,7 @@
 # rust-nvidia-monitor
 
 
-./mini_nvidia
+./nvmon
 ```
 NVIDIA RTX 3070 Laptop
 41,°C 23.24W 1200MHz 1MB/8192MB
@@ -18,3 +18,4 @@ NVIDIA RTX 3070 Laptop
 20	 -                                                           -
 10	 -                                                           -
 0	 -───────────────────────────────────────────────────────────-
+```
