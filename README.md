@@ -7,7 +7,7 @@
 
 ### Installing
 * rustc nvmon.rs
-* cp nvmon /bin/usr/
+* cp nvmon /usr/bin/
 
 ### Usage
 * ./nvmon
