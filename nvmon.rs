@@ -71,7 +71,7 @@ fn directplot(vec: &Vec<usize>, i: usize, step: usize) {
       arr[x] = "│".to_string();
     }
 
-    //ende
+    //end
     if vec[x] >= i*step && vec[x] < i*(step+1) {
       if vec[x] > vec[x-1] {
         arr[x] = "┌".to_string();
@@ -84,7 +84,7 @@ fn directplot(vec: &Vec<usize>, i: usize, step: usize) {
       }
     } 
 
-    //anfang
+    //start
     if vec[x-1]/i >= step && vec[x-1]/i <= step {
       if vec[x] > vec[x-1] {
         arr[x] = "┘".to_string();
