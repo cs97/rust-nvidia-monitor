@@ -5,14 +5,12 @@
 ### Dependencies
 * nvidia-smi
 
-
 ### Installing
 * rustc nvmon.rs
 * cp nvmon /bin/usr/
 
 ### Usage
-
-./nvmon
+* ./nvmon
 ```
 NVIDIA RTX 3070 Laptop
 44,°C 17.70W 360MHz 461MB/8192MB
