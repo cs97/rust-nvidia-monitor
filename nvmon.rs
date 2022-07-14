@@ -9,7 +9,7 @@ fn main() {
 
   let o = 12;
   let mut nvs: Vec<String>;
-  let mut utilization: usize = 0;
+  let mut utilization: usize;
   let mut gpu = vec![0; 60];
   
   print!("{}[2J", 27 as char);
