@@ -6,8 +6,8 @@
 * nvidia-smi
 
 ### Installing
-* rustc nvmon.rs
-* cp nvmon /usr/bin/
+* cargo build --release
+* cp target/release/nvmon /usr/bin/nvmon
 
 ### Usage
 * ./nvmon
